@@ -1,17 +1,17 @@
 
-<h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">FullStack Web Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sandeep 😃</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=FullStack+Web+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Amazing+Web+Experiences;MERN+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://www.instagram.com/singsandeep971/" alt="singsandeep971" /> </p>
 
+- 🔭 I’m currently working on **Real-time application (RTA)**
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🌱 I’m currently learning **Ai-Tools**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Full Stack Web Developer **
 
 - 📫 How to reach me **singsandeep971@gmail.com**
 
@@ -23,7 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -53,48 +53,20 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+### AI Tools 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude.AI-6366F1?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logo=ai&logoColor=white)
+![Blackbox AI](https://img.shields.io/badge/Blackbox.AI-000000?style=for-the-badge&logo=box&logoColor=00FFD1)
+![Gemini AI](https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Sandeep**, a Full Stack Developer with a passion for creating elegant and efficient web applications. I love turning ideas into reality through code!
-
-### 🔧 What I Do:
-
-
-
-
-
-
-
-
-
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on **Advanced Full-Stack Projects**
-- 🌱 I'm currently learning **System Design & Microservices**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Database Optimization**
-- 📫 How to reach me: **YOUR_EMAIL@gmail.com**
-- ⚡ Fun fact: **I love solving coding challenges and building side projects!**
+Hi, I'm **Sandeep**, a Full Stack Web Developer with a passion for creating elegant and efficient web applications. I love turning ideas into reality through code!
 
 ---
-
-## 🎮 Hobbies & Interests
-
-- 💻 Competitive Programming
-- 📚 Reading Tech Blogs
-- 🎨 UI/UX Design
-- 🎵 Music Production
-- ♟️ Chess
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<div align="center">
   <h3>💙 Show some love by starring ⭐ repositories you find interesting!</h3>
 </div>
 
